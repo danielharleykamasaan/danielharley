@@ -1,42 +1,43 @@
-<!-- ========================================= -->
-<!-- DANIEL HARLEY KAMASAAN | GITHUB PROFILE -->
-<!-- MINIMALIST MONOCHROME DESIGN              -->
-<!-- ========================================= -->
+<!-- ====================================== -->
+<!-- DANIEL HARLEY KAMASAAN - GITHUB PROFILE -->
+<!-- Minimalist + Colorful Developer Theme  -->
+<!-- ====================================== -->
 
-<h1 align="center">DANIEL HARLEY KAMASAAN</h1>
+<h1 align="center">Daniel Harley Kamasaan</h1>
 
-<p align="center">
-  <b>Information Systems Student · AI Enthusiast · UI/UX Designer</b>
-</p>
+<h3 align="center">
+  Information Systems Student | AI Enthusiast | UI/UX Designer
+</h3>
 
 <p align="center">
   Surabaya, East Java, Indonesia
 </p>
 
 <p align="center">
-  <a href="https://github.com/danielharley">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/daniel-harley-kamasaan-b44112391">LinkedIn</a>
-  &nbsp;·&nbsp;
+  <a href="https://github.com/danielharley">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/daniel-harley-kamasaan-b44112391">LinkedIn</a> ·
   <a href="mailto:danielharley120@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  <img src="https://img.shields.io/badge/Information_Systems-Student-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Generative_AI-Enthusiast-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Designer-EC4899?style=flat-square" />
 </p>
 
-## 01 / ABOUT ME
+---
 
-Hello! I'm **Daniel Harley Kamasaan**, an Information Systems undergraduate student at **Telkom University Surabaya**, Indonesia, currently in my third semester with a cumulative GPA of **3.62/4.00**.
+## 01. About Me
 
-I have a strong interest in Artificial Intelligence, UI/UX Design, and Digital Product Development.
+Hello! I'm **Daniel Harley Kamasaan**, an Information Systems undergraduate student at **Telkom University Surabaya**, Indonesia.
 
-My experience combines Generative AI development, AI content strategy, visual communication, and web application development.
+Currently in my third semester with a cumulative GPA of **3.62/4.00**.
+
+I have a strong interest in Artificial Intelligence, UI/UX Design, and Digital Product Development. My experience combines Generative AI development, AI content strategy, visual communication, and web application development.
 
 I enjoy exploring technology, designing intuitive digital experiences, and transforming ideas into meaningful solutions.
 
-**Currently interested in:**
-
+**Areas of Interest**
 - Artificial Intelligence & Generative AI
 - UI/UX Design & User-Centered Design
 - Digital Product Development
@@ -45,11 +46,11 @@ I enjoy exploring technology, designing intuitive digital experiences, and trans
 
 ---
 
-## 02 / EXPERIENCE
+## 02. Experience
 
-**AI Content Strategist — Historias AI Studio**
+### AI Content Strategist — Historias AI Studio
 
-`Internship` · August 2026 – October 2026
+`Internship` `August 2026 – October 2026`
 
 - Conducted content research and developed six content ideas and four comprehensive content briefs.
 - Developed content strategies across AI News, AI Updates, AI Tips, and AI Comparisons.
@@ -57,9 +58,9 @@ I enjoy exploring technology, designing intuitive digital experiences, and trans
 - Developed CTA strategies and community growth initiatives.
 - Collaborated with Social Media and Design teams to establish content KPIs.
 
-**Generative AI Engineer — IBM SkillsBuild**
+### Generative AI Engineer — IBM SkillsBuild
 
-`Contract` · July 2026 – August 2026
+`Contract` `July 2026 – August 2026`
 
 - Designed and implemented web-based Generative AI solutions.
 - Developed applications using Generative AI tools and Retrieval-Augmented Generation (RAG).
@@ -69,11 +70,11 @@ I enjoy exploring technology, designing intuitive digital experiences, and trans
 
 ---
 
-## 03 / SELECTED PROJECTS
+## 03. Featured Projects
 
-### 01. HydroRemind
+### 01 — HydroRemind
 
-**Water Reminder Application · UI/UX Design**
+**Water Reminder Application | UI/UX Design**
 
 A minimalist hydration reminder application concept designed to help users maintain healthy drinking habits through personalized reminders and daily hydration tracking.
 
@@ -83,73 +84,70 @@ A minimalist hydration reminder application concept designed to help users maint
 - Personalized Daily Water Targets
 - Daily Hydration Progress Tracking
 
-**Design Focus**
-
-`UI/UX Design` `Mobile App` `User Experience` `Figma`
+**Focus:** Mobile UI/UX · Figma · User Experience · Product Design
 
 ---
 
-### 02. SWK Surplus
+### 02 — SWK Surplus
 
-**Surplus Food Marketplace · UI/UX Design**
+**Surplus Food Marketplace | UI/UX Design**
 
-A digital marketplace concept that connects businesses offering surplus food with consumers, creating opportunities to reduce food waste through an accessible digital platform.
+A digital marketplace concept designed to connect businesses offering surplus food with consumers, creating opportunities to reduce food waste through an accessible digital platform.
 
-**Core Concept**
-- Surplus food discovery
-- Connection between businesses and consumers
-- Digital marketplace experience
-- Sustainable food consumption
+**Core Features**
+- Surplus Food Discovery
+- Connection Between Businesses and Consumers
+- User-Friendly Marketplace Experience
+- Sustainable Food Consumption
 
-**Design Focus**
-
-`UI/UX Design` `Marketplace` `Digital Product` `User Experience`
+**Focus:** UI/UX · Marketplace · Digital Product · User Experience
 
 ---
 
-## 04 / TECH STACK
+## 04. Tech Stack & Tools
 
-**Programming & Database**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
-**Design & Creative Tools**
+### Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-111111?style=flat-square&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_InDesign-111111?style=flat-square&logo=adobeindesign&logoColor=white" />
-  <img src="https://img.shields.io/badge/CapCut-111111?style=flat-square&logo=capcut&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-**Development & AI Tools**
+### UI/UX & Graphic Design
 
 <p>
-  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Cloud-111111?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-111111?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
 </p>
 
-**Additional Expertise**
+### Database & Development
 
-- Prompt Engineering
-- Large Language Models (LLMs)
-- AI Model Evaluation (Voice & Text)
-- Data Annotation & AI Quality Assurance
-- Retrieval-Augmented Generation (RAG)
-- Spec-Driven Development (Kiro)
-- Copywriting & Technical Documentation
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+### AI & Technical Expertise
+
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Evaluation-DB2777?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kiro_Spec--Driven-6366F1?style=for-the-badge" />
+</p>
 
 ---
 
-## 05 / EDUCATION
+## 05. Education
 
 **Bachelor of Information Systems (S.I.)**
 
@@ -161,32 +159,33 @@ Telkom University Surabaya
 | Degree | Bachelor's Degree |
 | Major | Information Systems |
 | Semester | 3 |
-| GPA | 3.62 / 4.00 |
+| Cumulative GPA | 3.62 / 4.00 |
 
 **Relevant Coursework**
-
 - Database Systems
 - Object-Oriented Programming (Java/Python)
 - Data Structures
 
 ---
 
-## 06 / ORGANIZATIONAL EXPERIENCE
+## 06. Organizational Experience
 
 **Christian Spirituality Unit (UK3)**  
 Telkom University Surabaya
 
-**Christmas Celebration Committee**  
+**Christmas Celebration Committee**
+
 Publications, Design & Documentation Staff  
-August 2026 – October 2026
+`August 2026 – October 2026`
 
 - Created promotional designs and informative visual materials.
 - Documented event activities through photography and videography.
 - Collaborated with the Publications and Documentation team.
 
-**Easter Celebration Committee**  
+**Easter Celebration Committee**
+
 Publications, Documentation & Design Staff  
-April 2026 – May 2026
+`April 2026 – May 2026`
 
 - Designed promotional materials and visual branding.
 - Used Figma, Canva, and Adobe InDesign.
@@ -194,7 +193,7 @@ April 2026 – May 2026
 
 ---
 
-## 07 / CERTIFICATIONS
+## 07. Certifications & Training
 
 | Certification | Organization |
 |:--|:--|
@@ -207,48 +206,43 @@ April 2026 – May 2026
 
 ---
 
-## 08 / LANGUAGES
+## 08. Languages
 
 - Indonesian — Native Fluency
 - English — Fluent / Proficient
 
 ---
 
-## 09 / GITHUB ANALYTICS
+## 09. GitHub Statistics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=danielharley&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=555555&icon_color=111111&rank_icon=github"
-    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=danielharley&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Daniel's GitHub Statistics"
+    height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielharley&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=555555"
-    height="160"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=danielharley&hide_border=true&background=FFFFFF&ring=111111&fire=555555&currStreakLabel=111111&sideLabels=555555&currStreakNum=111111&sideNums=111111&dates=888888"
-    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielharley&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Daniel's Top Languages"
+    height="170"
   />
 </p>
 
 ---
 
-## 10 / LET'S CONNECT
+## 10. Let's Connect
 
 I'm open to learning opportunities, creative collaborations, and projects involving AI, software development, and digital product design.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-harley-kamasaan-b44112391">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:danielharley120@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/danielharley">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
