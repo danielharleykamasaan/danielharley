@@ -213,19 +213,48 @@ Publications, Documentation & Design Staff
 
 ---
 
-## 09. GitHub Statistics
+
+## 09. Developer Overview
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=danielharley&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="Daniel's GitHub Statistics"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielharley&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Daniel's Top Languages"
-    height="170"
-  />
+  <img src="https://img.shields.io/badge/PROFILE-Developer-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOCUS-UI%2FUX_Design-EA4AAA?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/INTEREST-Generative_AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎨 UI/UX Design</h3>
+      <b>Digital Product Design</b>
+      <br/>
+      HydroRemind · SWK Surplus
+    </td>
+    <td align="center" width="50%">
+      <h3>🤖 AI & Technology</h3>
+      <b>Generative AI</b>
+      <br/>
+      Prompt Engineering · LLMs
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>💻 Development</h3>
+      <b>Programming & Database</b>
+      <br/>
+      Python · Java · JavaScript · SQL
+    </td>
+    <td align="center">
+      <h3>🎓 Education</h3>
+      <b>Telkom University</b>
+      <br/>
+      GPA: 3.62 / 4.00
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <i>Building skills. Exploring ideas. Creating digital experiences.</i>
 </p>
 
 ---
